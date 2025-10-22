@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/AliAbuSalah">
+  <a href=["https://github.com/AliAbuSalah"](https://github.com/AliAbuSalah1)>
     <img width="80%" alt="Hello, I'm Ali Abu Salah. I do AI & Data Science!" src="./assets/gh-readme-header.png" />
   </a>
 </p>

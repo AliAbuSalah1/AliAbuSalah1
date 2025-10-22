@@ -22,14 +22,9 @@ I’m focused on learning, building, and applying AI to solve real-world problem
 
 ### 🧰 **Tech Stack**
 
-<code><img height="25" alt="Python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="25" alt="SQL" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"></code>
-<code><img height="25" alt="TensorFlow" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
-<code><img height="25" alt="Scikit-Learn" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="25" alt="Pandas" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png"></code>
-<code><img height="25" alt="NumPy" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png"></code>
-<code><img height="25" alt="Power BI" src="https://raw.githubusercontent.com/github/explore/master/topics/powerbi/powerbi.png"></code>
-<code><img height="25" alt="Jupyter" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,matplotlib,sql,powerbi,git,github,vscode&theme=dark" />
+</p>
 
 ---
 

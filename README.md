@@ -1,45 +1,73 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center">
+  <a href="https://github.com/AliAbuSalah">
+    <img width="80%" alt="Hello, I'm Ali Abu Salah. I do AI & Data Science!" src="./assets/gh-readme-header.png" />
+  </a>
+</p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a passionate **Data Scientist & AI Developer** from **Palestine 🇵🇸**
 
-**About me**
+---
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+### 🧠 **About Me**
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 🎓 Final-year student specializing in **Data Science & Artificial Intelligence**
+- 💼 Interested in **Machine Learning**, **Deep Learning**, and **Data Analysis**
+- 📊 Experienced with Python, SQL, and Power BI for data analytics and visualization  
+- 🤖 Building smart systems using **TensorFlow**, **Scikit-learn**, and **OpenCV**
+- 🌍 Passionate about using AI to solve real-world problems in education, health, and business
+- 💬 Ask me about **AI, Machine Learning, Data Visualization**, or **Python Projects**
+- 🚀 Currently working on: **AI for Social Impact & Data-driven Applications**
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+---
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+### 🧰 **Tech Stack**
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="25" alt="Python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="25" alt="SQL" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"></code>
+<code><img height="25" alt="TensorFlow" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
+<code><img height="25" alt="Scikit-Learn" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png"></code>
+<code><img height="25" alt="Pandas" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png"></code>
+<code><img height="25" alt="NumPy" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png"></code>
+<code><img height="25" alt="Power BI" src="https://raw.githubusercontent.com/github/explore/master/topics/powerbi/powerbi.png"></code>
+<code><img height="25" alt="Jupyter" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
+---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/AliAbuSalah"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AliAbuSalah&show_icons=true&theme=tokyonight&hide_border=true" alt="Ali's GitHub stats" /></a> | <a href="https://github.com/AliAbuSalah"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAbuSalah&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
+---
 
+### 📌 **Top Projects**
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/AliAbuSalah/Data-Analysis-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AliAbuSalah&repo=Data-Analysis-Projects&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/AliAbuSalah/AI-Models-Collection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AliAbuSalah&repo=AI-Models-Collection&theme=tokyonight" />
 </a>
 
-<br />
-<br />
+---
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+### 🌐 **Connect With Me**
+
+<a href="https://www.linkedin.com/in/ali-abu-salah/">
+  <img align="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://github.com/AliAbuSalah">
+  <img align="left" alt="GitHub" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" />
 </a>
+<a href="https://twitter.com/">
+  <img align="left" alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />
+</a>
+<a href="mailto:aliabusalah.ds@gmail.com">
+  <img align="left" alt="Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" />
+</a>
+
+<br /><br />
+
+> *“Turning data into intelligence, and intelligence into impact.”* 💡
+
+---

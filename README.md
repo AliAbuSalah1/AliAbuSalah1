@@ -1,12 +1,10 @@
-<p align="center">
-  <a href="https://github.com/AliAbuSalah1">
-    <img width="80%" alt="Hello, I'm Ali Abu Salah. I do AI & Data Science!" src="./assets/gh-readme-header.png" />
-  </a>
-</p>
+<h1 align="center">👋 Hello, I'm <span style="color:#00b4d8;">Ali Abu Salah</span></h1>
+<h3 align="center">🚀 Data Scientist & AI Developer from Palestine 🇵🇸</h3>
 
 <br />
 
-I'm a passionate **Data Scientist & AI Developer** from **Palestine 🇵🇸**
+I'm a passionate **Data Science & Artificial Intelligence** enthusiast from **Palestine 🇵🇸**.  
+I’m focused on learning, building, and applying AI to solve real-world problems and create meaningful impact.
 
 ---
 
@@ -14,11 +12,11 @@ I'm a passionate **Data Scientist & AI Developer** from **Palestine 🇵🇸**
 
 - 🎓 Final-year student specializing in **Data Science & Artificial Intelligence**
 - 💼 Interested in **Machine Learning**, **Deep Learning**, and **Data Analysis**
-- 📊 Experienced with Python, SQL, and Power BI for data analytics and visualization  
-- 🤖 Building smart systems using **TensorFlow**, **Scikit-learn**, and **OpenCV**
-- 🌍 Passionate about using AI to solve real-world problems in education, health, and business
-- 💬 Ask me about **AI, Machine Learning, Data Visualization**, or **Python Projects**
-- 🚀 Currently working on: **AI for Social Impact & Data-driven Applications**
+- 📊 Skilled in **Python**, **SQL**, and **Power BI** for analytics and visualization  
+- 🤖 Learning to build intelligent systems using **TensorFlow**, **Scikit-learn**, and **OpenCV**
+- 🌍 Passionate about using AI for social good — especially in education and community development
+- 💬 Always open to discussions about **AI, Data Visualization, and Python Projects**
+- 🚀 Currently building my personal portfolio and contributing to open-source AI tools
 
 ---
 
@@ -35,39 +33,34 @@ I'm a passionate **Data Scientist & AI Developer** from **Palestine 🇵🇸**
 
 ---
 
-| <a href="https://github.com/AliAbuSalah"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AliAbuSalah&show_icons=true&theme=tokyonight&hide_border=true" alt="Ali's GitHub stats" /></a> | <a href="https://github.com/AliAbuSalah"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAbuSalah&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/AliAbuSalah1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AliAbuSalah1&show_icons=true&theme=tokyonight&hide_border=true" alt="Ali's GitHub stats" /></a> | <a href="https://github.com/AliAbuSalah1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAbuSalah1&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
-
----
-
-### 📌 **Top Projects**
-
-<a href="https://github.com/AliAbuSalah/Data-Analysis-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AliAbuSalah&repo=Data-Analysis-Projects&theme=tokyonight" />
-</a>
-<a href="https://github.com/AliAbuSalah/AI-Models-Collection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AliAbuSalah&repo=AI-Models-Collection&theme=tokyonight" />
-</a>
 
 ---
 
 ### 🌐 **Connect With Me**
 
-<a href="https://www.linkedin.com/in/ali-abu-salah/">
+<a href="https://www.linkedin.com/in/ali-ai-ds/">
   <img align="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/AliAbuSalah">
+<a href="https://github.com/AliAbuSalah1">
   <img align="left" alt="GitHub" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" />
 </a>
-<a href="https://twitter.com/">
-  <img align="left" alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />
-</a>
-<a href="mailto:aliabusalah.ds@gmail.com">
+<a href="mailto:aliaabusalah0@gmail.com">
   <img align="left" alt="Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" />
+</a>
+<a href="https://wa.me/972592176882">
+  <img align="left" alt="WhatsApp" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/whatsapp.svg" />
 </a>
 
 <br /><br />
 
-> *“Turning data into intelligence, and intelligence into impact.”* 💡
+📩 **Email:** [aliaabusalah0@gmail.com](mailto:aliaabusalah0@gmail.com)  
+💼 **LinkedIn:** [ali-ai-ds](https://www.linkedin.com/in/ali-ai-ds/)  
+💻 **GitHub:** [AliAbuSalah1](https://github.com/AliAbuSalah1)  
+📱 **WhatsApp:** [+972 592 176 882](https://wa.me/972592176882)
 
 ---
+
+> *“Turning data into intelligence, and intelligence into impact.”* 💡
+
